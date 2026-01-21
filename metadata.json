@@ -1,0 +1,7 @@
+{
+  "name": "Visionary Prompt Optimizer",
+  "description": "An AI-powered tool to transform your portrait photos into professionally optimized prompts with specific camera, lighting, and environmental settings while preserving the original facial identity.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
